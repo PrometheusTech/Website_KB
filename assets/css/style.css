@@ -439,10 +439,9 @@ header nav>ul a:hover {
 }
 
 /* IMAGE */
-.image {
-    background-image: url(/assets/img/Cover_GOKLILYHHKB.png);
-    width: 100%;
-    height: clamp(300px, 60vh, 800px);
+#cover {
+width: 100%;
+    height: auto;
     background-size: cover;
     background-position: center;
     filter: grayscale(50%);
