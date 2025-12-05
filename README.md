@@ -1,7 +1,8 @@
 Website Custom Mechanical Keyboard – README
 Thành viên nhóm
-- Trương Diệu Khánh Linh – Phụ trách nội dung, tìm hình ảnh, hoàn thiện giao diện, hỗ trợ viết báo cáo.
-- Trương Ngọc Thành An – Chỉnh sửa code, xử lý lỗi GitHub, thêm tính năng JavaScript, xây dựng kịch bản & quay video demo, viết báo cáo kỹ thuật.
+- Trương Diệu Khánh Linh:  Phụ trách nội dung, tìm hình ảnh, hoàn thiện giao diện, hỗ trợ viết báo cáo.
+- Trương Ngọc Thành An: Chỉnh sửa code, xử lý lỗi GitHub, thêm tính năng JavaScript, xây dựng kịch bản & quay video demo, viết báo cáo kỹ thuật.
+
 CHỦ ĐỀ WEBSITE
 Website được xây dựng nhằm giới thiệu sản phẩm bàn phím cơ, tổng hợp thông tin dành cho người dùng quan tâm đến custom keyboard, đồng thời cung cấp:
 - Danh sách vendor uy tín.
